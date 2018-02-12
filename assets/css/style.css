@@ -15,7 +15,19 @@ h1 {
 h2.panel-title {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
+    font-size: 22px;
     color: #4aaaa5;
+}
+
+h3 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    font-size: 22px;
+    color: #fff;
+    background-color: #4aaaa5;
+    padding: 10px;
+    position: relative;
+    bottom: 75px;
 }
 
 .navbar {
@@ -51,5 +63,5 @@ a.navbar-brand {
     background-color: #666;
     padding: 30px 0;
     border-top: 10px solid #4aaaa5;
-    margin-top: 100px;
+    margin: 125px auto 0 auto;
 }
