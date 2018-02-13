@@ -51,6 +51,12 @@ a.navbar-brand {
     border: 1px solid #ddd;
 }
 
+.btn-styled {
+    color: #fff;
+    background-color: #4aaaa5;
+    margin-bottom: 15px;
+}
+
 .social {
     width: 62px;
     height: 62px;
