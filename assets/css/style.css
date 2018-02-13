@@ -51,6 +51,10 @@ a.navbar-brand {
     border: 1px solid #ddd;
 }
 
+a.link-bio {
+    color: #4aaaa5;
+}
+
 .btn-styled {
     color: #fff;
     background-color: #4aaaa5;
